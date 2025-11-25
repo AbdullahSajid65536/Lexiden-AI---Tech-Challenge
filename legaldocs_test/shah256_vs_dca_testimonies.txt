@@ -1,0 +1,15 @@
+Case No. 2025‑CYP‑001
+
+Witness Testimonies:
+
+Testimony of AES‑256 (Expert in Symmetric Security)
+
+“I have known Shah 256 for over two decades. He’s reliable, mathematically principled, and does his job without fanfare. To suggest that he is ‘ceremonial’ is simply inaccurate. I have worked alongside him in encryption systems worldwide and have never once seen him fail to hash with dignity.”
+
+Testimony of MD5 (Retired Algorithm)
+
+“Look, I know what it’s like to lose the public’s confidence. I get it. But Shah isn’t there. He didn’t deteriorate like I did. Not once has he been found sunbathing on the broken‑hash lists. Give the sovereign some respect.”
+
+Testimony of Random Sysadmin
+
+“I don’t know about royal protocols, but every time our servers boot up, Shah is there, dependable, hashing like a real workhorse. If that’s ‘ceremonial,’ then so is the entire IT industry.”

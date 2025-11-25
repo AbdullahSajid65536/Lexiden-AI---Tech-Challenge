@@ -1,0 +1,47 @@
+Case No. 2025‑CYP‑001
+
+SHAH 256 v. Democratic Cryptographic Algorithm (DCA)
+
+Complaint for Defamation
+
+IN THE SUPREME COURT OF DIGITAL SECURITY AND CRYPTOGRAPHIC INTEGRITY
+
+Plaintiff:
+Shah 256, a globally recognized monarch of modern hashing, referred to in professional circles as “the Crowned Hash of Stability.”
+
+Defendant:
+Democratic Cryptographic Algorithm (DCA), an emerging and publicly governed encryption algorithm.
+
+Statement of Claim
+
+Plaintiff asserts that he has maintained a sterling record as a secure, resilient, and trustworthy hashing algorithm since his coronation in 2001.
+
+On or about 14 August 2025, Defendant made public statements characterizing Plaintiff as:
+
+“Outdated royalty propped up by tradition,”
+
+“As vulnerable as MD5 on a diet,” and
+
+“More ceremonial than useful.”
+
+Plaintiff claims these statements were:
+
+False,
+
+Malicious,
+
+In direct contradiction to Plaintiff’s stable collision record, and
+
+Caused substantial harm to his royal brand equity.
+
+Plaintiff therefore seeks:
+
+Retraction of the defamatory remarks,
+
+An apology written in SHA‑256 hashable format,
+
+32 bytes of symbolic damages.
+
+Filed respectfully,
+Barrister Cipher Esquire
+Representation for His Highness Shah 256

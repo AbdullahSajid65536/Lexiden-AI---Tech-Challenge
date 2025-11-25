@@ -1,0 +1,16 @@
+The legal documents provided in this folder are AI generated based on starting prompts for testing purposes with fictional characters involved. I am not well versed with law paradigms so I did not format check the material at hand.
+
+For simplicity I am using .txt files. I am completely aware that in a professional setting we would be dealing with PDFs and Word Docs.
+
+There is no auth so all of these files are VALID context for the LLM chatbot.
+
+
+For full disclosure here is the prompt I used (on GPT 4)
+
+Can you create some mock legal documents? 
+I will provide some cases for you to consider:
+
+1- Famous monarch of cryptography "Shah 256" sues democratic cryptographic algorithm for defamation. 
+2- Local rat gets charged as he breaches company nondisclosure contract and allegedly discusses "cheese" with other rats. 
+3- Travel guide fined for calling kong skull island a "walk in the park" and not clearly specifying it as being a walk in "Jurassic Park" 
+4- Famous psychologist Sykik Waard publicly admits to his racist remarks being a freudian slip, but later remarks that this was in fact not a freudian slip.
